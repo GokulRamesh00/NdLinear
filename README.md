@@ -4,7 +4,7 @@ This project builds a multimodal deep learning model to classify scanned documen
 
 ---
 
-## 📌 Key Features
+## Key Features
 
 - ✅ **Multimodal Fusion**: Combines visual (ResNet18) and text (BERT) features
 - ✅ **NdLinear Layer**: Replaces traditional FC layers with a more expressive fusion method
@@ -15,7 +15,7 @@ This project builds a multimodal deep learning model to classify scanned documen
 ---
 
 
-## 📦 Dataset
+## Dataset
 
 The dataset used in this project is derived from the publicly available **RVL-CDIP** dataset on Kaggle.
 
